@@ -1,7 +1,6 @@
 """
 http://www.pythonchallenge.com/pc/def/map.html
 """
-
 import string
 
 
@@ -25,4 +24,5 @@ qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj.'
 print(*decrypt(question, 2), sep='')
 print('http://www.pythonchallenge.com/pc/def/', \
       (*decrypt('map', 2)), '.html', sep='')
+
 #http://www.pythonchallenge.com/pc/def/ocr.html
