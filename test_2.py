@@ -10,6 +10,7 @@ data = str(urllib.request.urlopen\
            ("http://www.pythonchallenge.com/pc/def/ocr.html").read())
 
 data = ((max(data.split(), key=len)))[19:-10:]
+data = ((max(data.split('--'), key=len)))
 
 dct = {}
 for i in data:
