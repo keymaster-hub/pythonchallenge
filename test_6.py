@@ -23,7 +23,9 @@ while True:
     if len(str(next_index)) == 0:
         break
                            
-
 print(''.join(comments))
 print('http://www.pythonchallenge.com/pc/def/hockey.html')
 print('http://www.pythonchallenge.com/pc/def/oxygen.html')
+
+#http://www.pythonchallenge.com/pc/def/hockey.html
+#http://www.pythonchallenge.com/pc/def/oxygen.html
